@@ -1,4 +1,6 @@
-# Hi! I'm Pasha
+# kottans-frontend 2022 online courses
+#Git та GitHub
+Ознайомився з Git-ом курс на англійському був трішки складний але цікавий) Тому без проблем його пройшов.
 
-My cat it so cute)))
-[My github](https://github.com/zenoksi4)
+#Learn Git Branching
+Візуалізація у завданнях і приклада сильно допомагає зрозуміти як в дрібницях працюють ті чи інші команди Git.
